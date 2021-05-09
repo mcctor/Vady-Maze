@@ -18,14 +18,14 @@ private:
 public:
 	VadyMaze() = default;
 
-	VadyMaze(const VadyMaze& other_layout);
-	VadyMaze& operator=(const VadyMaze& other_layout);
+	VadyMaze(const VadyMaze<T>& other_layout);
+	VadyMaze<T>& operator=(const VadyMaze<T>& other_layout);
 
-	VadyMaze(VadyMaze&& other_layout);
-	VadyMaze& operator=(VadyMaze&& other_layout);
+	VadyMaze(VadyMaze<T>&& other_layout);
+	VadyMaze<T>& operator=(VadyMaze<T>&& other_layout);
 
-	VadyMaze& wrap_once();
-	VadyMaze& wrap_multi(int iterations = 1);
+	VadyMaze<T>& wrap_once();
+	VadyMaze<T>& wrap_multi(int iterations = 1);
 
 	int room_cnt();
 };

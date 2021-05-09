@@ -14,7 +14,8 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -29,7 +30,8 @@
 					"name" : "Vady Maze",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -37,9 +39,16 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "CMakeTarget::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-CMakeTarget-Debug-6ad45d1682d3354b34ea.json",
-					"name" : "CMakeTarget",
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-004e31aea93b58cbee10.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vady_maze::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vady_maze-Debug-0c397b15ec4aae59421e.json",
+					"name" : "vady_maze",
 					"projectIndex" : 0
 				}
 			]

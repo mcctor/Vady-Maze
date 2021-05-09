@@ -1,3 +1,4 @@
-C:/Users/markv/source/repos/Vady Maze/out/build/x64-Debug (default)/CMakeFiles/CMakeTarget.dir
+C:/Users/markv/source/repos/Vady Maze/out/build/x64-Debug (default)/CMakeFiles/vady_maze.dir
 C:/Users/markv/source/repos/Vady Maze/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/markv/source/repos/Vady Maze/out/build/x64-Debug (default)/CMakeFiles/main.dir
 C:/Users/markv/source/repos/Vady Maze/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir

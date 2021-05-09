@@ -1,0 +1,20 @@
+# ninja log v5
+0	598	642245410	CMakeFiles/CMakeTarget.dir/Vady_Maze.cpp.obj	b595d7625d8fb739
+3	606	642245410	CMakeFiles/CMakeTarget.dir/main.cpp.obj	5d7324e030d38b4a
+2	311	642245502	CMakeFiles/main.dir/Vady_Maze.cpp.obj	ddb3e11316184c03
+0	318	642245502	CMakeFiles/main.dir/main.cpp.obj	db2007d4922e0da5
+0	418	642245618	CMakeFiles/vady_maze.dir/Vady_Maze.cpp.obj	29f22c534f9387b0
+418	469	642245618	vady_maze.lib	3450794bf8f6a2d
+0	313	642245661	CMakeFiles/vady_maze.dir/Vady_Maze.cpp.obj	29f22c534f9387b0
+2	318	642245661	CMakeFiles/main.dir/main.cpp.obj	db2007d4922e0da5
+314	346	642245661	vady_maze.lib	3450794bf8f6a2d
+0	173	642245984	build.ninja	20f6c4ec01f6654b
+0	92	642246005	build.ninja	20f6c4ec01f6654b
+0	317	642246099	CMakeFiles/vady_maze.dir/Vady_Maze.cpp.obj	29f22c534f9387b0
+3	327	642246099	CMakeFiles/main.dir/main.cpp.obj	db2007d4922e0da5
+317	368	642246099	vady_maze.lib	3450794bf8f6a2d
+1	89	642246148	build.ninja	20f6c4ec01f6654b
+0	89	642246175	build.ninja	20f6c4ec01f6654b
+0	91	642246252	build.ninja	20f6c4ec01f6654b
+1	418	642246253	CMakeFiles/main.dir/Vady_Maze.cpp.obj	ddb3e11316184c03
+0	302	642246279	CMakeFiles/main.dir/main.cpp.obj	db2007d4922e0da5
